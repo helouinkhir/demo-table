@@ -1,6 +1,7 @@
 .center{
     text-align: center;
+    vertical-align: middle;
 }
-table {
+.p-datatable .p-datatable-tbody {
     width: 100%;
 }
