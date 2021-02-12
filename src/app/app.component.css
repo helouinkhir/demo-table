@@ -5,3 +5,7 @@
 .p-datatable .p-datatable-tbody {
     width: 100%;
 }
+.center-coll{
+    text-align: right;
+    vertical-align: middle;
+}
